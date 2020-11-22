@@ -1,4 +1,6 @@
-### Hi there 👋
+### Change your Life by Jau
+
+Creating a web application in order to get people into fitness. @werdermann
 
 <!--
 **JauApp/JauApp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
